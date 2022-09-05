@@ -1,1 +1,2 @@
 # gitWorkshop
+Golen Gerhárd

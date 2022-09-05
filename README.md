@@ -1,1 +1,2 @@
 # gitWorkshop
+Klavora Máté
